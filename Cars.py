@@ -46,4 +46,5 @@ ferrari.max_speed()
 mercedes.max_speed()
 ferrari.fuel_type()
 mercedes.fuel_type()
+bmw.fuel.type()
 
